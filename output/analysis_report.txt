@@ -1,0 +1,24 @@
+============================================================
+NETFLIX DATA ANALYSIS REPORT
+============================================================
+
+Generated On : 2026-07-09 18:03:49.342624
+
+Total Titles      : 8807
+Movies            : 6131
+TV Shows          : 2676
+Countries         : 749
+Directors         : 4529
+Genres            : 42
+Most Common Rating: TV-MA
+Release Years     : 1925 - 2021
+
+============================================================
+BUSINESS INSIGHTS
+============================================================
+
+• Movies dominate Netflix's catalog.
+• United States contributes the most content.
+• International Movies is the most popular genre.
+• TV-MA is the most common content rating.
+• Netflix content increased rapidly after 2015.
