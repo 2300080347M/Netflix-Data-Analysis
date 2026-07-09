@@ -68,7 +68,8 @@ Netflix-Data-Analysis
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+<img width="1920" height="1080" alt="Screenshot (822)" src="https://github.com/user-attachments/assets/57277758-4406-4a4c-865c-ce6dbcaef515" />
+
 
 ---
 
